@@ -1,0 +1,21 @@
+html,
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #fff;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.primary-color {
+    color: #3d3f5a;
+}
+
+.secondary-color {
+    color: #81b39b;
+}
+
+section {
+    flex: 1;
+}

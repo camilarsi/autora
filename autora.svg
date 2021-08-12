@@ -1,0 +1,47 @@
+<svg
+   viewBox="0 0 41.895905 55.137215"
+   height="55.137215mm"
+   width="41.895905mm">
+  <defs
+     id="defs3713" />
+  <g
+     transform="translate(-127.07734,-207.98661)"
+     id="layer1">
+    <rect
+       ry="14.977298"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       y="209.30952"
+       x="133.89807"
+       height="49.514885"
+       width="28.2537"
+       id="rect3732" />
+    <path
+       id="path4539"
+       d="m 148.02492,226.88513 v 5.76442"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4539-3"
+       d="m 162.57701,232.82771 -29.10417,-0.18899"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="3.8742673"
+       y="215.31932"
+       x="144.10342"
+       height="12.095239"
+       width="7.8430057"
+       id="rect4558"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <path
+       id="path4539-6"
+       d="m 148.02492,209.30953 v 5.76442"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4616"
+       d="m 162.29505,232.55432 c 0,0 0,29.79167 6.56745,29.23996"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4616-3"
+       d="m 133.75354,232.36756 c 0,0 0,29.98194 -6.56471,29.42672"
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
